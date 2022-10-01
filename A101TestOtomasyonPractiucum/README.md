@@ -91,7 +91,8 @@ https://www.youtube.com/watch?v=x7J4OsdO-Ac&ab_channel=BilalG%C3%BCnayd%C4%B1n
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/8sPMe.jpg)
+![A101 ScreenShot Feature](https://user-images.githubusercontent.com/21973124/193421501-a68ce223-ad99-4be9-be4b-76fb230d394a.jpg)
+
 
   
 ## Çıkarılan Dersler
