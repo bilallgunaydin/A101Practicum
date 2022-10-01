@@ -5,7 +5,7 @@ https://www.a101.com.tr/ A101 alışveriş web sitesinde Uçtan uca ödeme testi
 Ödeme ekranı doldurulmamıştır. 
 
 
-![alt text]([url=https://resimlink.com/8sPMe][img]https://r.resimlink.com/8sPMe.jpg[/img][/url])![a101-logo-768x699](https://user-images.githubusercontent.com/21973124/193421322-1c9f4bef-9c3f-4dfe-b821-4b8b5ece7c57.png)
+![a101-logo-500x500](https://user-images.githubusercontent.com/21973124/193421322-1c9f4bef-9c3f-4dfe-b821-4b8b5ece7c57.png)
 
     
 ## Kullanılan Teknolojiler
