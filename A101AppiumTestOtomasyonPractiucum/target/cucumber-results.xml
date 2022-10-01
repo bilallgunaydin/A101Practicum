@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="89.589">
+<testcase classname="Uçtan Uca Ödeme Test" name="Kadın Dizaltı Siyah Çorap Satın Alınması" time="89.228">
+<system-out><![CDATA[And Güncelleme Kontrol Edilir...............................................passed
+And Menuye basılır..........................................................passed
+And Giyim-Aksesuar butonuna tıklanır........................................passed
+And Kadın İç Giyim kategorisine tıklanır....................................passed
+And Dizaltı Çorap Kategorisini Seçilir......................................passed
+And Filtrele butonuna basılır...............................................passed
+And Renklerden Siyah Rengi seçilir..........................................passed
+And İçinde Siyah geçen bir ürünü seçilir....................................passed
+Then ürünün siyah olduğunu doğrulanır.......................................passed
+And Sepete Ekle butonuna basılır............................................passed
+And Sepeti Görüntüle butonuna basılır.......................................passed
+And Sepeti Onayla butonuna basılır..........................................passed
+And Üye olmadan devam et butonuna basılır...................................passed
+And Mail adresi yazılır.....................................................passed
+And KVKK kabul edilir.......................................................passed
+And Gönder butonuna basılır.................................................passed
+And Çerezler Kabul Edilir...................................................passed
+And Yeni Adres Oluştur linkine basılır......................................passed
+And "ev" adres başlığı yazılır..............................................passed
+And "Ahmet" isim yazılır....................................................passed
+And "Toprak" soyadı yazılır.................................................passed
+And 5555555555 cep telefonu yazılır.........................................passed
+And "Güneş sokak 65555" adres yazılır.......................................passed
+And "İSTANBUL" şehir seçilir................................................passed
+And "ADALAR" ilçe seçilir...................................................passed
+And "HEYBELİADA MAH" mahalle seçilir........................................passed
+And Kaydet butonuna basılır.................................................passed
+And Kargo firması seçilir...................................................passed
+And Kaydet ve Devam Et butonuna basılır.....................................passed
+And Siparişi Tamamla butonuna basılır.......................................passed
+Then "Kart ile ödeme" mesajının geldiği görülür.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
