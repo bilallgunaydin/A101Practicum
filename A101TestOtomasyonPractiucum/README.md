@@ -1,7 +1,7 @@
 
 # A101 Web Practicum
 
-https://www.a101.com.tr/ A101 alışveriş web sitesinde Uçtan uca ödeme testi yapılmıştır. Siteye ilk girişten ödeme ekranına kadar Selenium framework kullanılarak, java problama dili ile chrome browser kullanarak test otomasyon projesi yapılmıştır. 
+https://www.a101.com.tr/ A101 alışveriş web sitesinde Uçtan uca ödeme testi yapılmıştır. Siteye ilk girişten ödeme ekranına kadar Selenium framework kullanılarak, java proglama dili ile chrome browser kullanarak test otomasyon projesi yapılmıştır. 
 Ödeme ekranı doldurulmamıştır. 
 
 
