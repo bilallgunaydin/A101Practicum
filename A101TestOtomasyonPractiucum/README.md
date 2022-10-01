@@ -11,23 +11,21 @@ https://www.a101.com.tr/ A101 alışveriş web sitesinde Uçtan uca ödeme testi
     
 ## Kullanılan Teknolojiler
 
-**İstemci:** React, Redux, TailwindCSS
+**Java:** Projenin yazılmış olduğu programlama dilidir
 
-**Sunucu:** Node, Express
+**TestNG:** Test Caselerin yazılması ve çıktıların kontrollerinde kullanılan Test Yazım Aracıdır
 
-**Java:** (Projenin yazılmış olduğu kodlama dilidir)
+**Selenium:** Web Sitesini test etmek için kullanılan Test Otomasyon Aracıdır
 
-**TestNG:**(Test Caselerin yazılması ve çıktıların kontrollerinde kullanılan Test Yazım Aracıdır)
+**Page Object Model:** Projede kullanılan mimari yapıdır
 
-**Selenium:** (Web Sitesini test etmek için kullanılan Test Otomasyon Aracıdır)
-
-**Page Object Model:** (Projede kullanılan mimari yapıdır)
-
-**Maven:** (Genellikle Java platformunda yer alan komutların derlenmesi sırasında kullanılan otomasyon ve inşa aracıdır)
+**Maven:** Genellikle Java platformunda yer alan komutların derlenmesi sırasında kullanılan otomasyon ve inşa aracıdır
 
 **Cucumber:**(Cucumber, BDD (Behavior Driven Developmet) destekli bir test otomasyon yaklaşımıdır)
 
-**Gherkin:** (Gherkin bir plain-text language’dir. Yazılımcı olmayan kişiler tarafından öğrenilebilecek şekilde tasarlanmıştır)
+**Gherkin:** Gherkin bir plain-text language’dir. Yazılımcı olmayan kişiler tarafından öğrenilebilecek şekilde tasarlanmıştır
+
+
 ## Uygulama İçin Kullanılan Teknolojilerin Sürümleri
 
 **Chrome Driver**: 106.0.5249.61
