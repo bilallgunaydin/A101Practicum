@@ -28,6 +28,8 @@ A101 mobil uygulamasındauçtan uca ödeme testi yapılmıştır. Uygulamanın i
 **Appium**: Bir web sürücüsü kullanarak Android veya iOS'ta komut dosyalarını çalıştırmak ve yerel uygulamaları, mobil web uygulamalarını ve hibrit uygulamaları test etmek için açık kaynaklı bir otomasyon aracıdır.
 
 **Vysor**: Android işletim sistemine sahip cep telefonunuzu işletim sisteminiz üzerinden kontrol etmeye yarayan uygulamadır. 
+
+
 ## Uygulama İçin Kullanılan Teknolojilerin Sürümleri ve Mobil Cihazın Özellikleri
 
 **Appium**: windows-1.21.0-1
@@ -60,11 +62,12 @@ A101 mobil uygulamasındauçtan uca ödeme testi yapılmıştır. Uygulamanın i
 
 **Scenario Outline:**  Kadın Dizaltı Siyah Çorap Satın Alınması
     
-    -Given Web sitesine gidilir
-    -And Cerezleri kabul edilir
+    -And Güncelleme Kontrol Edilir
+    -And Menuye basılır.
     -And Giyim-Aksesuar butonuna tıklanır
     -And Kadın İç Giyim kategorisine tıklanır
     -And Dizaltı Çorap Kategorisini Seçilir
+    -And Filtrele butonuna basılır
     -And Renklerden Siyah Rengi seçilir
     -And İçinde Siyah geçen bir ürünü seçilir
     -Then ürünün siyah olduğunu doğrulanır
@@ -73,7 +76,9 @@ A101 mobil uygulamasındauçtan uca ödeme testi yapılmıştır. Uygulamanın i
     -And Sepeti Onayla butonuna basılır
     -And Üye olmadan devam et butonuna basılır
     -And Mail adresi yazılır
-    -And Devam Et butonuna basılır
+    -And KVKK kabul edilir
+    -And Gönder butonuna basılır
+    -And Çerezler Kabul Edilir
     -And Yeni Adres Oluştur linkine basılır
     -And "<adresBasligi>" adres başlığı yazılır.
     -And "<ad>" isim yazılır.
@@ -87,8 +92,7 @@ A101 mobil uygulamasındauçtan uca ödeme testi yapılmıştır. Uygulamanın i
     -And Kargo firması seçilir
     -And Kaydet ve Devam Et butonuna basılır.
     -And Siparişi Tamamla butonuna basılır
-    -Then "Kart ile ödeme" mesajının geldiği görülür.
-
+    -Then "Kart ile ödeme" mesajının geldiği görülür
   
 ## Kullanım/Örnekler
 
@@ -107,6 +111,11 @@ https://www.youtube.com/watch?v=QxW-QlWV8JQ&ab_channel=BilalG%C3%BCnayd%C4%B1n
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü]
+![A101 Appium](https://user-images.githubusercontent.com/21973124/193424424-07aa849f-4d48-48b3-beeb-b09c06bc0d43.jpg)
+![A101 appium 2](https://user-images.githubusercontent.com/21973124/193424461-a9f2763c-cae3-4014-9616-58963e644205.jpg)
+
+
+
 
   
 ## Çıkarılan Dersler
