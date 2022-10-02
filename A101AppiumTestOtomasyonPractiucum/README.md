@@ -1,5 +1,5 @@
 
-# A101 Web Practicum
+# A101 Mobil App Practicum
 
 A101 mobil uygulamasındauçtan uca ödeme testi yapılmıştır. Uygulamanın ilk açılışından ödeme ekranına kadar Appium framework üzerinden uygulama elementleri bulunup, java proglama dili ile kullanarak Vysor programı ile gerçek bir cihaz üzerinden testler yapılarak otomasyon projesi yapılmıştır. 
 Ödeme ekranı doldurulmamıştır. 
